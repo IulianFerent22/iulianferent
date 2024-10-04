@@ -1,3 +1,6 @@
 <?php
+header('Content-type: text/plain');
 
-echo "Salut, asta e un mesaj!";
+echo "Salut,\nAcesta e un mesaj!";
+
+?>
