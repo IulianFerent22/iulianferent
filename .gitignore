@@ -3,3 +3,4 @@ www/*
 .vscode
 
 !www/.gitkeep
+.vs
