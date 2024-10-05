@@ -1,3 +1,4 @@
 <?php
-
-echo "Salut, asta e un mesaj!";
+// Afișează mesajul "Hello World" în browser
+echo "Hello, World!";
+?>
